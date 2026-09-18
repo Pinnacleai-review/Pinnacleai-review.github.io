@@ -17,7 +17,7 @@
 - `about.html`：系統理念與架構
 - `insights.html`：文章列表
 - `insight-1.html` 至 `insight-5.html`：五篇獨立長文
-- `faq.html`：20 條常見問題
+- `faq.html`：30 條常見問題
 - `contact.html`：前端聯絡表單
 - `css/style.css`：全站共用樣式
 - `js/main.js`：導覽、動畫與表單互動
